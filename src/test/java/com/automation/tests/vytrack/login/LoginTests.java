@@ -57,24 +57,6 @@ public class LoginTests {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     @BeforeMethod
     public void setup() {
         WebDriverManager.chromedriver().version("79").setup();
